@@ -1,0 +1,15 @@
+C:\bossDSM\AreaTriangulo\bin\Debug\net10.0\AreaTriangulo.exe
+C:\bossDSM\AreaTriangulo\bin\Debug\net10.0\AreaTriangulo.deps.json
+C:\bossDSM\AreaTriangulo\bin\Debug\net10.0\AreaTriangulo.runtimeconfig.json
+C:\bossDSM\AreaTriangulo\bin\Debug\net10.0\AreaTriangulo.dll
+C:\bossDSM\AreaTriangulo\bin\Debug\net10.0\AreaTriangulo.pdb
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.AssemblyInfoInputs.cache
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.AssemblyInfo.cs
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.sourcelink.json
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.dll
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\refint\AreaTriangulo.dll
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.pdb
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\AreaTriangulo.genruntimeconfig.cache
+C:\bossDSM\AreaTriangulo\obj\Debug\net10.0\ref\AreaTriangulo.dll
